@@ -1,6 +1,6 @@
 import { ActionReducerMapBuilder } from '@reduxjs/toolkit'
-
 import { setStatus } from 'shared/lib/redux/set-status'
+
 import { FileNameFetch } from './thunk'
 import { FileNameModel } from './types'
 

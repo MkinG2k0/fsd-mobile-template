@@ -1,4 +1,5 @@
 import { rtqApi } from 'core/store/config/rtq-api'
+
 import { rtkQueryAuthMiddleware } from './auth'
 import { serializable } from './serializable'
 

@@ -2,7 +2,6 @@
 import { createHistoryRouter } from 'atomic-router'
 import { createBrowserHistory, createMemoryHistory } from 'history'
 import { authRoute } from 'pages/auth/config'
-
 import { mainRoute } from 'pages/main'
 import { todoRoute } from 'pages/tab-todos'
 import { tabsRoute } from 'pages/tabs'

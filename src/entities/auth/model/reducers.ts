@@ -1,6 +1,6 @@
 import { PayloadAction } from '@reduxjs/toolkit'
-
 import { TokenService } from 'shared'
+
 import { authModel } from './types'
 
 export const reducers = {

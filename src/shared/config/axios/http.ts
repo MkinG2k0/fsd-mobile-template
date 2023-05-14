@@ -1,6 +1,6 @@
 import axios from 'axios'
-
 import { TokenService, AUTH_STATUS } from 'shared'
+
 import { AxiosConfig } from './config'
 
 export const http = axios.create(AxiosConfig)

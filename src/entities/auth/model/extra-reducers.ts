@@ -1,6 +1,6 @@
 import { ActionReducerMapBuilder } from '@reduxjs/toolkit'
-
 import { TokenService, setStatus } from 'shared'
+
 import { fetchLogin, fetchRefresh } from './thunk'
 import { authModel } from './types'
 
